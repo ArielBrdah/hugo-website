@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr-FR'
+title = 'Conseil Formation En Ligne'
+theme = "ananke"

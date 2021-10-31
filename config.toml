@@ -1,4 +1,22 @@
 baseURL = 'http://example.org/'
 languageCode = 'fr-FR'
-title = 'Conseil Formation En Ligne'
+title = 'Ariel Berdah'
 theme = "ananke"
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[params]
+	author = "Ariel Berdah"
+	site_logo = ""
+	featured_image = "/images/background.jpg"
+	description = "The last theme you'll ever need. Maybe."
+  	background_color_class = "bg-black light-purple"
+	body_classes = "avenir light-purple"
+	# commentoEnable = true
+
+[taxonomies]
+	tag = 'tags'
+
+[permalinks]
+	'/post' = '/blog/:slug'
+
+

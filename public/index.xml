@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on Ariel Berdah</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Accueil on Ariel Berdah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 31 Oct 2021 20:45:54 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Sat, 30 Oct 2021 21:46:55 +0300</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>N&amp;rsquo;hesitez pas a me contacter, je vous repondrez avec plaisir Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+    <item>
+      <title>A propos</title>
+      <link>http://example.org/a-propos/</link>
+      <pubDate>Sat, 30 Oct 2021 20:11:50 +0300</pubDate>
+      
+      <guid>http://example.org/a-propos/</guid>
+      <description>Qui suis-je ? J&amp;rsquo;aime la programmation informatique, je me pose beaucoups de question sur les nouvelles technologies.
+J&amp;rsquo;ai fonde ce site, et ouvert un blog pour partager ce que j&amp;rsquo;aime et ce que j&amp;rsquo;appreci dans la technologie de manieres generale.</description>
+    </item>
+    
+    <item>
+      <title>Pikachu</title>
+      <link>http://example.org/blog/pikachu/</link>
+      <pubDate>Sat, 30 Oct 2021 20:03:11 +0300</pubDate>
+      
+      <guid>http://example.org/blog/pikachu/</guid>
+      <description>Une bestiole qui a fait verser des milliers de dollards Derriere ses aires inoffensifs, la petite bestiole jaune du nom de pikachu a rapporter 450 000 000 de dollards a nintendo ce dernier mois. Un vrai coup eclaire qui a laisser K.O ses adversaires. On peut dire que cela est vraiment une victoire.</description>
+    </item>
+    
+  </channel>
+</rss>

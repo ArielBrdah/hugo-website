@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pokemons on Ariel Berdah</title>
+    <link>http://example.org/tags/pokemons/</link>
+    <description>Recent content in pokemons on Ariel Berdah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 30 Oct 2021 20:03:11 +0300</lastBuildDate><atom:link href="http://example.org/tags/pokemons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pikachu</title>
+      <link>http://example.org/blog/pikachu/</link>
+      <pubDate>Sat, 30 Oct 2021 20:03:11 +0300</pubDate>
+      
+      <guid>http://example.org/blog/pikachu/</guid>
+      <description>Une bestiole qui a fait verser des milliers de dollards Derriere ses aires inoffensifs, la petite bestiole jaune du nom de pikachu a rapporter 450 000 000 de dollards a nintendo ce dernier mois. Un vrai coup eclaire qui a laisser K.O ses adversaires. On peut dire que cela est vraiment une victoire.</description>
+    </item>
+    
+  </channel>
+</rss>
